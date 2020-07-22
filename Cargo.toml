@@ -1,0 +1,11 @@
+[package]
+name = "node_modules_remover"
+version = "0.1.0"
+authors = ["pelleknaap <pelle.vd.knaap@xs4all.nl>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+walkdir = "2"
+clap = "3.0.0-beta.1"
